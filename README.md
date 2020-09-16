@@ -1,4 +1,4 @@
-# Optimizer_in_Neural_Network
+# Optimizer in Neural Network
 This piece of work is related to JIET STTP phase-I conducted on 14th to 19th Sept, 2020. 
 
 Steps to Use Notebook:
